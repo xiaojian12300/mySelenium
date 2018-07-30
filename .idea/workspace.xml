@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6553e60f-00c5-4c65-a1e5-2bd9b8c0ee2d" name="Default" comment="" />
+    <list default="true" id="6553e60f-00c5-4c65-a1e5-2bd9b8c0ee2d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,6 +112,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -398,7 +404,7 @@
       <workItem from="1532691192967" duration="7048000" />
       <workItem from="1532777329793" duration="4609000" />
       <workItem from="1532868635620" duration="2808000" />
-      <workItem from="1532963620620" duration="787000" />
+      <workItem from="1532963620620" duration="2381000" />
     </task>
     <servers />
   </component>
@@ -435,7 +441,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32256000" />
+    <option name="totallyTimeSpent" value="33850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,7 +463,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32752612" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.22706065" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293919" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.47186932" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5608108" />
       <window_info id="Capture Tool" order="2" />
